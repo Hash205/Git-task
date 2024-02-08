@@ -1,5 +1,5 @@
 print("git is awsome")
 
-name = input("Enter name: ")
+first_name = input("Enter name: ")
 
 print("this is the name: ", name)
